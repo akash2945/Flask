@@ -1,0 +1,19 @@
+{
+    "params": {
+      "facebook_url": "https://facebook.com/codingthunder",
+      "github_url": "https://github.com/codingthunder",
+      "local_uri": "mysql://root:@localhost/coolkicks",
+      "local_server": "True",
+      "prod_uri": "mysql://root:@localhost/coolkicks",
+      "twitter_url": "https://twitter.com/KawatraAkash",
+      "blog_name": "The Smart Investor",
+      "blog_subheading": "Investing is not hard-work,it's smart work",
+      "gmail-user": "alookaparantha2@gmail.com",
+      "gmail-password": "Akash@123",
+      "about_text": "My name is Akash and I am creating this app on flask",
+      "no_of_posts": 3,
+      "login_image": "login.svg",
+      "admin_user" :"akash",
+      "admin_password": "akash123"
+    }
+}
